@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Basia",
+        "age": 39,
+        "city": "Warszawa",
+        "salary": 8500
+    },
+    {
+        "name": "Anna",
+        "age": 28,
+        "city": "Kraków",
+        "salary": 6200
+    },
+    {
+        "name": "Tomek",
+        "age": 35,
+        "city": "Gdańsk",
+        "salary": 7800
+    },
+    {
+        "name": "Kasia",
+        "age": 31,
+        "city": "Wrocław",
+        "salary": 7200
+    },
+    {
+        "name": "Piotr",
+        "age": 42,
+        "city": "Poznań",
+        "salary": 9100
+    },
+    {
+        "name": "Zofia",
+        "age": 29,
+        "city": "Łódź",
+        "salary": 6800
+    }
+]
