@@ -1,0 +1,1255 @@
+[
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "year": 1949,
+        "pages": 328,
+        "rating": 9
+    },
+    {
+        "title": "Zbrodnia i kara",
+        "author": "Fiodor Dostojewski",
+        "year": 1866,
+        "pages": 671,
+        "rating": 6
+    },
+    {
+        "title": "Wiedźmin: Ostatnie życzenie",
+        "author": "Andrzej Sapkowski",
+        "year": 1993,
+        "pages": 288,
+        "rating": 7
+    },
+    {
+        "title": "Duma i uprzedzenie",
+        "author": "Jane Austen",
+        "year": 1813,
+        "pages": 432,
+        "rating": 9
+    },
+    {
+        "title": "Mały Książę",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1943,
+        "pages": 96,
+        "rating": 10
+    },
+    {
+        "title": "Rok 451 Fahrenheit",
+        "author": "Ray Bradbury",
+        "year": 1953,
+        "pages": 249,
+        "rating": 8
+    },
+    {
+        "title": "Folwark zwierzęcy",
+        "author": "George Orwell",
+        "year": 1945,
+        "pages": 112,
+        "rating": 7
+    },
+    {
+        "title": "Solaris",
+        "author": "Stanisław Lem",
+        "year": 1961,
+        "pages": 204,
+        "rating": 6
+    },
+    {
+        "title": "Hobbit",
+        "author": "J.R.R. Tolkien",
+        "year": 1937,
+        "pages": 310,
+        "rating": 10
+    },
+    {
+        "title": "Władca Pierścieni: Drużyna Pierścienia",
+        "author": "J.R.R. Tolkien",
+        "year": 1954,
+        "pages": 423,
+        "rating": 9
+    },
+    {
+        "title": "Harry Potter i Kamień Filozoficzny",
+        "author": "J.K. Rowling",
+        "year": 1997,
+        "pages": 320,
+        "rating": 8
+    },
+    {
+        "title": "Harry Potter i Komnata Tajemnic",
+        "author": "J.K. Rowling",
+        "year": 1998,
+        "pages": 341,
+        "rating": 7
+    },
+    {
+        "title": "Harry Potter i Więzień Azkabanu",
+        "author": "J.K. Rowling",
+        "year": 1999,
+        "pages": 435,
+        "rating": 9
+    },
+    {
+        "title": "Gra o tron",
+        "author": "George R.R. Martin",
+        "year": 1996,
+        "pages": 694,
+        "rating": 10
+    },
+    {
+        "title": "Starcie królów",
+        "author": "George R.R. Martin",
+        "year": 1998,
+        "pages": 768,
+        "rating": 8
+    },
+    {
+        "title": "Nawałnica mieczy",
+        "author": "George R.R. Martin",
+        "year": 2000,
+        "pages": 973,
+        "rating": 9
+    },
+    {
+        "title": "To",
+        "author": "Stephen King",
+        "year": 1986,
+        "pages": 1138,
+        "rating": 8
+    },
+    {
+        "title": "Lśnienie",
+        "author": "Stephen King",
+        "year": 1977,
+        "pages": 447,
+        "rating": 7
+    },
+    {
+        "title": "Carrie",
+        "author": "Stephen King",
+        "year": 1974,
+        "pages": 199,
+        "rating": 6
+    },
+    {
+        "title": "Misery",
+        "author": "Stephen King",
+        "year": 1987,
+        "pages": 370,
+        "rating": 8
+    },
+    {
+        "title": "Metro 2033",
+        "author": "Dmitry Glukhovsky",
+        "year": 2005,
+        "pages": 458,
+        "rating": 7
+    },
+    {
+        "title": "Metro 2034",
+        "author": "Dmitry Glukhovsky",
+        "year": 2009,
+        "pages": 360,
+        "rating": 6
+    },
+    {
+        "title": "Metro 2035",
+        "author": "Dmitry Glukhovsky",
+        "year": 2015,
+        "pages": 480,
+        "rating": 7
+    },
+    {
+        "title": "Proces",
+        "author": "Franz Kafka",
+        "year": 1925,
+        "pages": 255,
+        "rating": 6
+    },
+    {
+        "title": "Obcy",
+        "author": "Albert Camus",
+        "year": 1942,
+        "pages": 123,
+        "rating": 7
+    },
+    {
+        "title": "Sto lat samotności",
+        "author": "Gabriel García Márquez",
+        "year": 1967,
+        "pages": 417,
+        "rating": 9
+    },
+    {
+        "title": "Miasto ślepców",
+        "author": "José Saramago",
+        "year": 1995,
+        "pages": 352,
+        "rating": 8
+    },
+    {
+        "title": "Norwegian Wood",
+        "author": "Haruki Murakami",
+        "year": 1987,
+        "pages": 296,
+        "rating": 9
+    },
+    {
+        "title": "Kronika ptaka nakręcacza",
+        "author": "Haruki Murakami",
+        "year": 1994,
+        "pages": 607,
+        "rating": 7
+    },
+    {
+        "title": "Zamek",
+        "author": "Franz Kafka",
+        "year": 1926,
+        "pages": 352,
+        "rating": 6
+    },
+    {
+        "title": "Alchemik",
+        "author": "Paulo Coelho",
+        "year": 1988,
+        "pages": 208,
+        "rating": 7
+    },
+    {
+        "title": "Buszujący w zbożu",
+        "author": "J.D. Salinger",
+        "year": 1951,
+        "pages": 277,
+        "rating": 6
+    },
+    {
+        "title": "Mechaniczna pomarańcza",
+        "author": "Anthony Burgess",
+        "year": 1962,
+        "pages": 192,
+        "rating": 8
+    },
+    {
+        "title": "Diuna",
+        "author": "Frank Herbert",
+        "year": 1965,
+        "pages": 604,
+        "rating": 10
+    },
+    {
+        "title": "Mesjasz Diuny",
+        "author": "Frank Herbert",
+        "year": 1969,
+        "pages": 336,
+        "rating": 8
+    },
+    {
+        "title": "Dzieci Diuny",
+        "author": "Frank Herbert",
+        "year": 1976,
+        "pages": 432,
+        "rating": 9
+    },
+    {
+        "title": "Neuromancer",
+        "author": "William Gibson",
+        "year": 1984,
+        "pages": 271,
+        "rating": 8
+    },
+    {
+        "title": "Blade Runner",
+        "author": "Philip K. Dick",
+        "year": 1968,
+        "pages": 210,
+        "rating": 9
+    },
+    {
+        "title": "Ubik",
+        "author": "Philip K. Dick",
+        "year": 1969,
+        "pages": 216,
+        "rating": 7
+    },
+    {
+        "title": "Fundacja",
+        "author": "Isaac Asimov",
+        "year": 1951,
+        "pages": 255,
+        "rating": 9
+    },
+    {
+        "title": "Fundacja i Imperium",
+        "author": "Isaac Asimov",
+        "year": 1952,
+        "pages": 247,
+        "rating": 8
+    },
+    {
+        "title": "Druga Fundacja",
+        "author": "Isaac Asimov",
+        "year": 1953,
+        "pages": 240,
+        "rating": 9
+    },
+    {
+        "title": "Opowieść podręcznej",
+        "author": "Margaret Atwood",
+        "year": 1985,
+        "pages": 311,
+        "rating": 9
+    },
+    {
+        "title": "Bastion",
+        "author": "Stephen King",
+        "year": 1978,
+        "pages": 1152,
+        "rating": 7
+    },
+    {
+        "title": "Wyspa doktora Moreau",
+        "author": "H.G. Wells",
+        "year": 1896,
+        "pages": 208,
+        "rating": 6
+    },
+    {
+        "title": "Wojna światów",
+        "author": "H.G. Wells",
+        "year": 1898,
+        "pages": 288,
+        "rating": 7
+    },
+    {
+        "title": "Frankenstein",
+        "author": "Mary Shelley",
+        "year": 1818,
+        "pages": 280,
+        "rating": 8
+    },
+    {
+        "title": "Dracula",
+        "author": "Bram Stoker",
+        "year": 1897,
+        "pages": 418,
+        "rating": 7
+    },
+    {
+        "title": "Mistrz i Małgorzata",
+        "author": "Michaił Bułhakow",
+        "year": 1967,
+        "pages": 480,
+        "rating": 10
+    },
+    {
+        "title": "Bracia Karamazow",
+        "author": "Fiodor Dostojewski",
+        "year": 1880,
+        "pages": 824,
+        "rating": 9
+    },
+    {
+        "title": "Idiota",
+        "author": "Fiodor Dostojewski",
+        "year": 1869,
+        "pages": 667,
+        "rating": 8
+    },
+    {
+        "title": "Biesy",
+        "author": "Fiodor Dostojewski",
+        "year": 1872,
+        "pages": 768,
+        "rating": 7
+    },
+    {
+        "title": "Szklany klosz",
+        "author": "Sylvia Plath",
+        "year": 1963,
+        "pages": 244,
+        "rating": 6
+    },
+    {
+        "title": "Zabić drozda",
+        "author": "Harper Lee",
+        "year": 1960,
+        "pages": 281,
+        "rating": 9
+    },
+    {
+        "title": "Rzeźnia numer pięć",
+        "author": "Kurt Vonnegut",
+        "year": 1969,
+        "pages": 275,
+        "rating": 8
+    },
+    {
+        "title": "Kocia kołyska",
+        "author": "Kurt Vonnegut",
+        "year": 1963,
+        "pages": 304,
+        "rating": 7
+    },
+    {
+        "title": "Świat Zofii",
+        "author": "Jostein Gaarder",
+        "year": 1991,
+        "pages": 403,
+        "rating": 8
+    },
+    {
+        "title": "Paragraf 22",
+        "author": "Joseph Heller",
+        "year": 1961,
+        "pages": 453,
+        "rating": 9
+    },
+    {
+        "title": "Lot nad kukułczym gniazdem",
+        "author": "Ken Kesey",
+        "year": 1962,
+        "pages": 320,
+        "rating": 8
+    },
+    {
+        "title": "Pokuta",
+        "author": "Ian McEwan",
+        "year": 2001,
+        "pages": 351,
+        "rating": 7
+    },
+    {
+        "title": "Amsterdam",
+        "author": "Ian McEwan",
+        "year": 1998,
+        "pages": 193,
+        "rating": 6
+    },
+    {
+        "title": "Obłok Magellana",
+        "author": "Stanisław Lem",
+        "year": 1955,
+        "pages": 302,
+        "rating": 7
+    },
+    {
+        "title": "Eden",
+        "author": "Stanisław Lem",
+        "year": 1959,
+        "pages": 300,
+        "rating": 8
+    },
+    {
+        "title": "Niezwyciężony",
+        "author": "Stanisław Lem",
+        "year": 1964,
+        "pages": 304,
+        "rating": 9
+    },
+    {
+        "title": "Cyberiada",
+        "author": "Stanisław Lem",
+        "year": 1965,
+        "pages": 312,
+        "rating": 8
+    },
+    {
+        "title": "Bajki robotów",
+        "author": "Stanisław Lem",
+        "year": 1964,
+        "pages": 160,
+        "rating": 7
+    },
+    {
+        "title": "Ania z Zielonego Wzgórza",
+        "author": "Lucy Maud Montgomery",
+        "year": 1908,
+        "pages": 320,
+        "rating": 8
+    },
+    {
+        "title": "Przeminęło z wiatrem",
+        "author": "Margaret Mitchell",
+        "year": 1936,
+        "pages": 1037,
+        "rating": 9
+    },
+    {
+        "title": "Jane Eyre",
+        "author": "Charlotte Brontë",
+        "year": 1847,
+        "pages": 532,
+        "rating": 9
+    },
+    {
+        "title": "Wichrowe Wzgórza",
+        "author": "Emily Brontë",
+        "year": 1847,
+        "pages": 416,
+        "rating": 8
+    },
+    {
+        "title": "Opowieść wigilijna",
+        "author": "Charles Dickens",
+        "year": 1843,
+        "pages": 104,
+        "rating": 7
+    },
+    {
+        "title": "Oliver Twist",
+        "author": "Charles Dickens",
+        "year": 1838,
+        "pages": 554,
+        "rating": 8
+    },
+    {
+        "title": "David Copperfield",
+        "author": "Charles Dickens",
+        "year": 1850,
+        "pages": 768,
+        "rating": 9
+    },
+    {
+        "title": "Great Expectations",
+        "author": "Charles Dickens",
+        "year": 1861,
+        "pages": 505,
+        "rating": 8
+    },
+    {
+        "title": "Robinson Crusoe",
+        "author": "Daniel Defoe",
+        "year": 1719,
+        "pages": 320,
+        "rating": 7
+    },
+    {
+        "title": "Trzej muszkieterowie",
+        "author": "Alexandre Dumas",
+        "year": 1844,
+        "pages": 700,
+        "rating": 9
+    },
+    {
+        "title": "Hrabia Monte Christo",
+        "author": "Alexandre Dumas",
+        "year": 1844,
+        "pages": 1276,
+        "rating": 10
+    },
+    {
+        "title": "Pięćdziesiąt twarzy Greya",
+        "author": "E.L. James",
+        "year": 2011,
+        "pages": 514,
+        "rating": 4
+    },
+    {
+        "title": "Zmierzch",
+        "author": "Stephenie Meyer",
+        "year": 2005,
+        "pages": 498,
+        "rating": 5
+    },
+    {
+        "title": "Nowy księżyc",
+        "author": "Stephenie Meyer",
+        "year": 2006,
+        "pages": 563,
+        "rating": 4
+    },
+    {
+        "title": "Kosogłos",
+        "author": "Suzanne Collins",
+        "year": 2010,
+        "pages": 390,
+        "rating": 7
+    },
+    {
+        "title": "Igrzyska śmierci",
+        "author": "Suzanne Collins",
+        "year": 2008,
+        "pages": 374,
+        "rating": 8
+    },
+    {
+        "title": "Catching Fire",
+        "author": "Suzanne Collins",
+        "year": 2009,
+        "pages": 391,
+        "rating": 7
+    },
+    {
+        "title": "Ready Player One",
+        "author": "Ernest Cline",
+        "year": 2011,
+        "pages": 374,
+        "rating": 8
+    },
+    {
+        "title": "Projekt Hail Mary",
+        "author": "Andy Weir",
+        "year": 2021,
+        "pages": 476,
+        "rating": 9
+    },
+    {
+        "title": "Artemis",
+        "author": "Andy Weir",
+        "year": 2017,
+        "pages": 305,
+        "rating": 7
+    },
+    {
+        "title": "Marsjanin",
+        "author": "Andy Weir",
+        "year": 2011,
+        "pages": 369,
+        "rating": 9
+    },
+    {
+        "title": "Shantaram",
+        "author": "Gregory David Roberts",
+        "year": 2003,
+        "pages": 936,
+        "rating": 9
+    },
+    {
+        "title": "Małe życie",
+        "author": "Hanya Yanagihara",
+        "year": 2015,
+        "pages": 720,
+        "rating": 8
+    },
+    {
+        "title": "Normalni ludzie",
+        "author": "Sally Rooney",
+        "year": 2018,
+        "pages": 273,
+        "rating": 7
+    },
+    {
+        "title": "Rozmowy z przyjaciółmi",
+        "author": "Sally Rooney",
+        "year": 2017,
+        "pages": 304,
+        "rating": 6
+    },
+    {
+        "title": "Where the Crawdads Sing",
+        "author": "Delia Owens",
+        "year": 2018,
+        "pages": 384,
+        "rating": 8
+    },
+    {
+        "title": "The Silent Patient",
+        "author": "Alex Michaelides",
+        "year": 2019,
+        "pages": 336,
+        "rating": 7
+    },
+    {
+        "title": "The Maidens",
+        "author": "Alex Michaelides",
+        "year": 2021,
+        "pages": 352,
+        "rating": 6
+    },
+    {
+        "title": "Educated",
+        "author": "Tara Westover",
+        "year": 2018,
+        "pages": 334,
+        "rating": 9
+    },
+    {
+        "title": "Becoming",
+        "author": "Michelle Obama",
+        "year": 2018,
+        "pages": 448,
+        "rating": 8
+    },
+    {
+        "title": "Sapiens",
+        "author": "Yuval Noah Harari",
+        "year": 2011,
+        "pages": 498,
+        "rating": 9
+    },
+    {
+        "title": "Homo Deus",
+        "author": "Yuval Noah Harari",
+        "year": 2015,
+        "pages": 450,
+        "rating": 8
+    },
+    {
+        "title": "21 lekcji na XXI wiek",
+        "author": "Yuval Noah Harari",
+        "year": 2018,
+        "pages": 368,
+        "rating": 8
+    },
+    {
+        "title": "Quiet",
+        "author": "Susan Cain",
+        "year": 2012,
+        "pages": 352,
+        "rating": 8
+    },
+    {
+        "title": "Atomic Habits",
+        "author": "James Clear",
+        "year": 2018,
+        "pages": 320,
+        "rating": 9
+    },
+    {
+        "title": "Deep Work",
+        "author": "Cal Newport",
+        "year": 2016,
+        "pages": 296,
+        "rating": 8
+    },
+    {
+        "title": "Digital Minimalism",
+        "author": "Cal Newport",
+        "year": 2019,
+        "pages": 304,
+        "rating": 8
+    },
+    {
+        "title": "Outliers",
+        "author": "Malcolm Gladwell",
+        "year": 2008,
+        "pages": 336,
+        "rating": 8
+    },
+    {
+        "title": "Blink",
+        "author": "Malcolm Gladwell",
+        "year": 2005,
+        "pages": 277,
+        "rating": 7
+    },
+    {
+        "title": "The Tipping Point",
+        "author": "Malcolm Gladwell",
+        "year": 2000,
+        "pages": 301,
+        "rating": 8
+    },
+    {
+        "title": "Guns, Germs, and Steel",
+        "author": "Jared Diamond",
+        "year": 1997,
+        "pages": 480,
+        "rating": 9
+    },
+    {
+        "title": "Collapse",
+        "author": "Jared Diamond",
+        "year": 2005,
+        "pages": 592,
+        "rating": 8
+    },
+    {
+        "title": "The Road",
+        "author": "Cormac McCarthy",
+        "year": 2006,
+        "pages": 287,
+        "rating": 8
+    },
+    {
+        "title": "Kraina lodu",
+        "author": "Hans Christian Andersen",
+        "year": 1844,
+        "pages": 96,
+        "rating": 7
+    },
+    {
+        "title": "Baśnie",
+        "author": "Bracia Grimm",
+        "year": 1812,
+        "pages": 320,
+        "rating": 8
+    },
+    {
+        "title": "Pinokio",
+        "author": "Carlo Collodi",
+        "year": 1883,
+        "pages": 192,
+        "rating": 7
+    },
+    {
+        "title": "Peter Pan",
+        "author": "J.M. Barrie",
+        "year": 1911,
+        "pages": 240,
+        "rating": 8
+    },
+    {
+        "title": "Matylda",
+        "author": "Roald Dahl",
+        "year": 1988,
+        "pages": 240,
+        "rating": 8
+    },
+    {
+        "title": "Charlie i fabryka czekolady",
+        "author": "Roald Dahl",
+        "year": 1964,
+        "pages": 176,
+        "rating": 8
+    },
+    {
+        "title": "James i ogromna brzoskwinia",
+        "author": "Roald Dahl",
+        "year": 1961,
+        "pages": 160,
+        "rating": 7
+    },
+    {
+        "title": "Percy Jackson: Złodziej pioruna",
+        "author": "Rick Riordan",
+        "year": 2005,
+        "pages": 377,
+        "rating": 8
+    },
+    {
+        "title": "Percy Jackson: Morze potworów",
+        "author": "Rick Riordan",
+        "year": 2006,
+        "pages": 279,
+        "rating": 7
+    },
+    {
+        "title": "Percy Jackson: Klątwa tytana",
+        "author": "Rick Riordan",
+        "year": 2007,
+        "pages": 312,
+        "rating": 8
+    },
+    {
+        "title": "Percy Jackson: Bitwa w Labiryncie",
+        "author": "Rick Riordan",
+        "year": 2008,
+        "pages": 361,
+        "rating": 8
+    },
+    {
+        "title": "Percy Jackson: Ostatni Olimpijczyk",
+        "author": "Rick Riordan",
+        "year": 2009,
+        "pages": 381,
+        "rating": 9
+    },
+    {
+        "title": "Eragon",
+        "author": "Christopher Paolini",
+        "year": 2002,
+        "pages": 503,
+        "rating": 8
+    },
+    {
+        "title": "Eldest",
+        "author": "Christopher Paolini",
+        "year": 2005,
+        "pages": 704,
+        "rating": 7
+    },
+    {
+        "title": "Brisingr",
+        "author": "Christopher Paolini",
+        "year": 2008,
+        "pages": 748,
+        "rating": 8
+    },
+    {
+        "title": "Inheritance",
+        "author": "Christopher Paolini",
+        "year": 2011,
+        "pages": 860,
+        "rating": 8
+    },
+    {
+        "title": "Ender's Game",
+        "author": "Orson Scott Card",
+        "year": 1985,
+        "pages": 324,
+        "rating": 9
+    },
+    {
+        "title": "Speaker for the Dead",
+        "author": "Orson Scott Card",
+        "year": 1986,
+        "pages": 415,
+        "rating": 8
+    },
+    {
+        "title": "Xenocide",
+        "author": "Orson Scott Card",
+        "year": 1991,
+        "pages": 592,
+        "rating": 7
+    },
+    {
+        "title": "Children of the Mind",
+        "author": "Orson Scott Card",
+        "year": 1996,
+        "pages": 370,
+        "rating": 7
+    },
+    {
+        "title": "Dzieci z Bullerbyn",
+        "author": "Astrid Lindgren",
+        "year": 1947,
+        "pages": 192,
+        "rating": 8
+    },
+    {
+        "title": "Pippi Pończoszanka",
+        "author": "Astrid Lindgren",
+        "year": 1945,
+        "pages": 160,
+        "rating": 8
+    },
+    {
+        "title": "Ronja, córka zbójnika",
+        "author": "Astrid Lindgren",
+        "year": 1981,
+        "pages": 256,
+        "rating": 8
+    },
+    {
+        "title": "Millennium: Mężczyźni, którzy nienawidzą kobiet",
+        "author": "Stieg Larsson",
+        "year": 2005,
+        "pages": 672,
+        "rating": 9
+    },
+    {
+        "title": "Millennium: Dziewczyna, która igrała z ogniem",
+        "author": "Stieg Larsson",
+        "year": 2006,
+        "pages": 576,
+        "rating": 8
+    },
+    {
+        "title": "Millennium: Zamek z piasku, który runął",
+        "author": "Stieg Larsson",
+        "year": 2007,
+        "pages": 720,
+        "rating": 9
+    },
+    {
+        "title": "Zaginiona dziewczyna",
+        "author": "Gillian Flynn",
+        "year": 2012,
+        "pages": 422,
+        "rating": 8
+    },
+    {
+        "title": "Ostre przedmioty",
+        "author": "Gillian Flynn",
+        "year": 2006,
+        "pages": 254,
+        "rating": 7
+    },
+    {
+        "title": "Mroczny zakątek",
+        "author": "Gillian Flynn",
+        "year": 2009,
+        "pages": 349,
+        "rating": 7
+    },
+    {
+        "title": "American Psycho",
+        "author": "Bret Easton Ellis",
+        "year": 1991,
+        "pages": 399,
+        "rating": 7
+    },
+    {
+        "title": "Less Than Zero",
+        "author": "Bret Easton Ellis",
+        "year": 1985,
+        "pages": 208,
+        "rating": 6
+    },
+    {
+        "title": "Fight Club",
+        "author": "Chuck Palahniuk",
+        "year": 1996,
+        "pages": 218,
+        "rating": 8
+    },
+    {
+        "title": "Chłopi",
+        "author": "Władysław Reymont",
+        "year": 1904,
+        "pages": 840,
+        "rating": 9
+    },
+    {
+        "title": "Lalka",
+        "author": "Bolesław Prus",
+        "year": 1890,
+        "pages": 688,
+        "rating": 9
+    },
+    {
+        "title": "Quo Vadis",
+        "author": "Henryk Sienkiewicz",
+        "year": 1896,
+        "pages": 640,
+        "rating": 9
+    },
+    {
+        "title": "Potop",
+        "author": "Henryk Sienkiewicz",
+        "year": 1886,
+        "pages": 936,
+        "rating": 8
+    },
+    {
+        "title": "Ogniem i mieczem",
+        "author": "Henryk Sienkiewicz",
+        "year": 1884,
+        "pages": 760,
+        "rating": 8
+    },
+    {
+        "title": "Faraon",
+        "author": "Bolesław Prus",
+        "year": 1897,
+        "pages": 432,
+        "rating": 8
+    },
+    {
+        "title": "Granica",
+        "author": "Zofia Nałkowska",
+        "year": 1935,
+        "pages": 304,
+        "rating": 7
+    },
+    {
+        "title": "Medaliony",
+        "author": "Zofia Nałkowska",
+        "year": 1946,
+        "pages": 160,
+        "rating": 8
+    },
+    {
+        "title": "Kamienie na szaniec",
+        "author": "Aleksander Kamiński",
+        "year": 1943,
+        "pages": 256,
+        "rating": 9
+    },
+    {
+        "title": "Szczury Wrocławia",
+        "author": "Robert J. Szmidt",
+        "year": 2014,
+        "pages": 480,
+        "rating": 7
+    },
+    {
+        "title": "Achaja",
+        "author": "Andrzej Ziemiański",
+        "year": 2002,
+        "pages": 560,
+        "rating": 8
+    },
+    {
+        "title": "Virion",
+        "author": "Andrzej Ziemiański",
+        "year": 2017,
+        "pages": 480,
+        "rating": 7
+    },
+    {
+        "title": "Pan Lodowego Ogrodu",
+        "author": "Jarosław Grzędowicz",
+        "year": 2005,
+        "pages": 560,
+        "rating": 9
+    },
+    {
+        "title": "Księga Jesiennych Demonów",
+        "author": "Jarosław Grzędowicz",
+        "year": 2003,
+        "pages": 320,
+        "rating": 8
+    },
+    {
+        "title": "Opowiadania",
+        "author": "Edgar Allan Poe",
+        "year": 1845,
+        "pages": 400,
+        "rating": 8
+    },
+    {
+        "title": "Maska Czerwonego Moru",
+        "author": "Edgar Allan Poe",
+        "year": 1842,
+        "pages": 64,
+        "rating": 7
+    },
+    {
+        "title": "Zagłada domu Usherów",
+        "author": "Edgar Allan Poe",
+        "year": 1839,
+        "pages": 80,
+        "rating": 7
+    },
+    {
+        "title": "Pod kopułą",
+        "author": "Stephen King",
+        "year": 2009,
+        "pages": 1074,
+        "rating": 8
+    },
+    {
+        "title": "Outsider",
+        "author": "Stephen King",
+        "year": 2018,
+        "pages": 560,
+        "rating": 8
+    },
+    {
+        "title": "Instytut",
+        "author": "Stephen King",
+        "year": 2019,
+        "pages": 576,
+        "rating": 8
+    },
+    {
+        "title": "Joyland",
+        "author": "Stephen King",
+        "year": 2013,
+        "pages": 288,
+        "rating": 7
+    },
+    {
+        "title": "11/22/63",
+        "author": "Stephen King",
+        "year": 2011,
+        "pages": 849,
+        "rating": 9
+    },
+    {
+        "title": "Misery",
+        "author": "Stephen King",
+        "year": 1987,
+        "pages": 370,
+        "rating": 8
+    },
+    {
+        "title": "Carrie",
+        "author": "Stephen King",
+        "year": 1974,
+        "pages": 199,
+        "rating": 6
+    },
+    {
+        "title": "Zew Cthulhu",
+        "author": "H.P. Lovecraft",
+        "year": 1928,
+        "pages": 420,
+        "rating": 8
+    },
+    {
+        "title": "W górach szaleństwa",
+        "author": "H.P. Lovecraft",
+        "year": 1936,
+        "pages": 240,
+        "rating": 7
+    },
+    {
+        "title": "Cień spoza czasu",
+        "author": "H.P. Lovecraft",
+        "year": 1936,
+        "pages": 160,
+        "rating": 7
+    },
+    {
+        "title": "Call Me by Your Name",
+        "author": "André Aciman",
+        "year": 2007,
+        "pages": 256,
+        "rating": 8
+    },
+    {
+        "title": "Arystoteles i Dante odkrywają sekrety wszechświata",
+        "author": "Benjamin Alire Sáenz",
+        "year": 2012,
+        "pages": 368,
+        "rating": 8
+    },
+    {
+        "title": "Fault in Our Stars",
+        "author": "John Green",
+        "year": 2012,
+        "pages": 313,
+        "rating": 8
+    },
+    {
+        "title": "Paper Towns",
+        "author": "John Green",
+        "year": 2008,
+        "pages": 305,
+        "rating": 7
+    },
+    {
+        "title": "Looking for Alaska",
+        "author": "John Green",
+        "year": 2005,
+        "pages": 221,
+        "rating": 7
+    },
+    {
+        "title": "Ready Player Two",
+        "author": "Ernest Cline",
+        "year": 2020,
+        "pages": 384,
+        "rating": 6
+    },
+    {
+        "title": "Project Hail Mary",
+        "author": "Andy Weir",
+        "year": 2021,
+        "pages": 476,
+        "rating": 9
+    },
+    {
+        "title": "Hyperion",
+        "author": "Dan Simmons",
+        "year": 1989,
+        "pages": 482,
+        "rating": 9
+    },
+    {
+        "title": "Upadek Hyperiona",
+        "author": "Dan Simmons",
+        "year": 1990,
+        "pages": 517,
+        "rating": 9
+    },
+    {
+        "title": "Ilium",
+        "author": "Dan Simmons",
+        "year": 2003,
+        "pages": 752,
+        "rating": 8
+    },
+    {
+        "title": "Olympos",
+        "author": "Dan Simmons",
+        "year": 2005,
+        "pages": 891,
+        "rating": 8
+    }
+]
